@@ -4,8 +4,8 @@
 // @category       Tweaks
 // @version        0.1.3
 // @namespace      https://github.com/Panna100/Random
-// @updateURL      https://github.com/Panna100/Random/Chat-Tools.meta.js    
-// @downloadURL    https://github.com/Panna100/Random/Chat-Tools.user.js   
+// @updateURL      https://panna100.github.io/Random/Chat-Tools.meta.js    
+// @downloadURL    https://panna100.github.io/Random//Chat-Tools.user.js   
 // @description    Tools for chat including regex based filters and highligters
 // @include        https://*.ingress.com/intel*
 // @include        http://*.ingress.com/intel*
